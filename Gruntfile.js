@@ -32,6 +32,7 @@ module.exports = function (grunt) {
     yeoman: appConfig,
 
 
+
     buildcontrol: {
       options: {
         dir: 'dist',
