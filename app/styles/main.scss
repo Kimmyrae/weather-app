@@ -2,3 +2,9 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
 // bower:scss
 @import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
 // endbower
+
+// Import Partial stylesheets
+
+@import "about";
+@import "content_styles";
+@import "home";
