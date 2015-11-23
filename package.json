@@ -2,6 +2,7 @@
   "name": "weatherapp",
   "private": true,
   "devDependencies": {
+    "autoprefixer": "^6.1.0",
     "autoprefixer-core": "^5.2.1",
     "grunt": "^0.4.5",
     "grunt-angular-templates": "^0.5.7",
